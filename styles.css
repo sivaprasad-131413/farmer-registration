@@ -1,0 +1,60 @@
+.bg-container{
+    background-color:lightgreen;
+    background-size: cover;
+    height: 185vh;
+    
+    
+}
+.card{
+    text-align: center;
+    background-color: white;
+    border: 5px solid;
+    border-color:#f2f2f2;
+    border-radius: 20px;
+    margin-left: 385px;
+    padding: 15px;
+    width: 800px;
+    height: 1000px;
+    margin-top: 10px;
+}
+.text{
+    padding: 10px;
+    color: #18394c;
+}
+
+.form-label{
+    margin: 20px;
+}
+
+.signin{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+
+.carousel-card-container{
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    width: 500px;
+    height: 250px;
+    margin-left: 500px;
+    border-radius: 25px;
+}
+
+.carousel-img{
+    height: 250px;
+    width:50px ;
+}
+
+.registerbtn{
+    background-color: blue;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+    border: 0px;
+}
+.address{
+    padding:35px;
+}
